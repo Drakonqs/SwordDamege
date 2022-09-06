@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace SwordDamege
 {
+    /// <summary>
+    /// Класс Подсчёт урона мечём
+    /// </summary>
     class SwordDamage
     {
         private const int BASE_DAMAGE = 3;
